@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Introduction
 
-_Write book intro here. This is the first page the student will see when opening the url._
+_This book discusses the basic structural analysis techniques with some tips._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+Lets start with trying to understand how a structure behaves. Are you more comfortable with a beam or a column example?
